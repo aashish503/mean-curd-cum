@@ -53,7 +53,7 @@ $ npm start
 
 ## Contributors
 
-Aditya Loshali
+Ashish jawal
 
 ## License
 
